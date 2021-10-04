@@ -4,7 +4,10 @@
 - [Introduction](#introduction)
 - [Test Plan Sample](#test-plan-sample)
 - [The Road Map](#the-road-map)
-- [Advices](#advices)
+- [Тестировани DOT com] (#fb2)
+
+## fb2
+- Скачать книгу Романа Савина "Тестирование Dot Com" [В формате fb2](https://github.com/Atreido/QA/blob/master/Savin_Roman_-_testirovanie_dot_com.fb2)
 
 ## Introduction
 
@@ -41,6 +44,4 @@ Attached PDF can be found here [test_plan_sample.pdf](https://github.com/anas-qa
 
 - 200~OK is not always okay; Do not rely only on server status while testing, getting 200 status for an unauthorized API call is risking your software security.
 
-## Contributing
 
-See the [contributing.md](https://github.com/fityanos/awesome-quality-assurance-road-map/blob/master/contributing.md) for details on how to contribute.
