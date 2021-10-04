@@ -4,7 +4,7 @@
 - [Introduction](#introduction)
 - [Test Plan Sample](#test-plan-sample)
 - [The Road Map](#the-road-map)
-- [Тестировани DOT com] (#fb2)
+- [Тестирование DOT com](#fb2)
 
 ## fb2
 - Скачать книгу Романа Савина "Тестирование Dot Com" [В формате fb2](https://github.com/Atreido/QA/blob/master/Savin_Roman_-_testirovanie_dot_com.fb2)
